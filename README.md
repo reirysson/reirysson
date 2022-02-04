@@ -3,10 +3,10 @@
 <div>
 👩‍💻Developer FullStack <br>
 🏠 Brazilian, Based in Pau dos Ferros, RN <br>
-- 🔭 I am currently a participant in the develop project of the <b>Boticário group.</b> <br>
-- 🌱 I’m currently learning <b>React JS</b> <br>
-- ⚡ Fun fact: From the beginning I liked hardware and hated software, but today I think it's the most software <br>
-- 📫 How to reach me: ... <br>
+🔭 I am currently a participant in the develop project of the <b>Boticário group.</b> <br>
+🌱 I’m currently learning <b>React JS</b> <br>
+⚡ Fun fact: From the beginning I liked hardware and hated software, but today I think it's the most software <br>
+📫 How to reach me: ... <br>
  <br>
 <a href="https://www.linkedin.com/in/reirysson-costa-b80b75186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
