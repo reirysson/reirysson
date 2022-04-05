@@ -1,12 +1,12 @@
 ### Olá galera! 👋
 
 <div>
-👩‍💻Developer FullStack <br>
-🏠 Brazilian, Based in Pau dos Ferros, RN <br>
-🔭 I am currently a participant in the develop project of the <b>Boticário group.</b> <br>
-🌱 I’m currently learning <b>React JS</b> <br>
-⚡ Fun fact: From the beginning I liked hardware and hated software, but today I think it's the most software <br>
-📫 How to reach me: ... <br>
+👩‍💻 Desenvolvedor Front-end <br>
+🏠 Brasileiro, morando em Pau dos Ferros, RN <br>
+🔭 Atualmente sou participante do projeto desenvolve 2022 do <b>grupo Boticário.</b> <br>
+🌱 Atualmente estou aprendendo <b>React JS</b> <br>
+⚡ Curiosidade: desde o começo eu gostava de hardware e não tinha paciência para software, hoje sou mais software<br>
+📫 Como falar comigo... <br>
  </div>
  
  <div align="center">
