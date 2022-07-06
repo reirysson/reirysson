@@ -1,10 +1,8 @@
 ### Olá galera! 👋
 
 <div>
-👩‍💻 Desenvolvedor Front-end <br>
+👩‍💻 Desenvolvedor Salesforce Trainee <br>
 🏠 Brasileiro, morando em Pau dos Ferros, RN <br>
-🔭 Atualmente sou participante do projeto desenvolve 2022 do <b>grupo Boticário.</b> <br>
-🌱 Atualmente estou aprendendo <b>React</b> <br>
 ⚡ Curiosidade: desde o começo eu gostava de hardware e não tinha paciência para software, hoje sou mais software<br>
 📫 Como falar comigo... <br>
  </div>
