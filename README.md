@@ -1,7 +1,7 @@
 ### Olá galera! 👋
 
 <div>
-👩‍💻 Desenvolvedor Salesforce Trainee <br>
+👩‍💻 Desenvolvedor Salesforce Trainee na Everymind<br>
 🏠 Brasileiro, morando em Pau dos Ferros, RN <br>
 ⚡ Curiosidade: desde o começo eu gostava de hardware e não tinha paciência para software, hoje sou mais software<br>
 📫 Como falar comigo... <br>
